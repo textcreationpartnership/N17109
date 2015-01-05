@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:022080_0000_0FB6B57B9383E150"/>
-            <pb facs="tcp:022080_0001_0FB6B57D162B52D0"/>
+            <pb facs="unknown:022080_0000_0FB6B57B9383E150"/>
+            <pb facs="unknown:022080_0001_0FB6B57D162B52D0"/>
             <p>THE PRESENT STATE OF <hi>AMERICA, &amp;c.</hi>
             </p>
             <p>PHILADELPHIA: PRINTED FOR THE AUTHOR, 1789.</p>
@@ -119,7 +119,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:022080_0002_0FB6B58612F58BD0"/>
+            <pb facs="unknown:022080_0002_0FB6B58612F58BD0"/>
             <head>
                <hi>THE PRESENT STATE OF</hi> AMERICA, With the mournful Complaints, and a glorious Proſ<g ref="char:EOLhyphen"/>pect of better Times: Including our noble General's excellent Character.</head>
             <lg>
@@ -148,7 +148,7 @@
                <l>What is the cauſe of all her grief,</l>
                <l>Which makes the poor, cry for relief?</l>
                <l>
-                  <pb n="3" facs="tcp:022080_0003_0FB6B58CE2D845D8"/>Tradeſmen and merchants they do fail,</l>
+                  <pb n="3" facs="unknown:022080_0003_0FB6B58CE2D845D8"/>Tradeſmen and merchants they do fail,</l>
                <l>And ſome confined in a jail.—</l>
             </lg>
             <lg>
@@ -186,7 +186,7 @@
                   </note>Now that good friend is gone to reſt,</l>
                <l>Man is now turned like a beaſt.—</l>
                <l>
-                  <pb n="4" facs="tcp:022080_0004_0FB6B58E54FA4510"/>Sweedenbourg's dreams are now receiv'd,</l>
+                  <pb n="4" facs="unknown:022080_0004_0FB6B58E54FA4510"/>Sweedenbourg's dreams are now receiv'd,</l>
                <l>The Lord deny'd, the ſpirit griev'd.—</l>
                <l>Fools to the houſe of laughter go,</l>
                <l>A ſad preſage of future woe.—</l>
@@ -215,7 +215,7 @@
                <l>Juſtice to truth, ſometimes is paid,</l>
                <l>Then contradicts, what he hath ſaid.—</l>
                <l>
-                  <pb n="5" facs="tcp:022080_0005_0FB6B58FD2EA8398"/>His idle dreams are ſo refin'd,</l>
+                  <pb n="5" facs="unknown:022080_0005_0FB6B58FD2EA8398"/>His idle dreams are ſo refin'd,</l>
                <l>To cheat the weak and feeble mind;</l>
                <l>Sure the man muſt be inſane,</l>
                <l>To write ſuch ſtuff, and ſign his name;</l>
@@ -242,7 +242,7 @@
                <l>I hope they will once more unite;</l>
                <l>And put our Popiſh foes to flight;</l>
                <l>
-                  <pb n="6" facs="tcp:022080_0006_0FB6B59442456BC0"/>Come in alliance, once again,</l>
+                  <pb n="6" facs="unknown:022080_0006_0FB6B59442456BC0"/>Come in alliance, once again,</l>
                <l>'Tis time the BEAST that he was ſlain.</l>
                <l>But independent we'll remain,</l>
                <l>In ſpite of Britain, France or Spain.</l>
@@ -288,7 +288,7 @@
                <l>"How pleaſant is a flow'ry grove;</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:022080_0007_0FB6B59515BBCFF0"/>
+               <pb n="7" facs="unknown:022080_0007_0FB6B59515BBCFF0"/>
                <l>If my poor ſubject is too grave,</l>
                <l>A proof I'm no deſigning knave</l>
                <l>Was it av'rice, I have in view,</l>
@@ -336,7 +336,7 @@
                <l>Such righteous laws, will be made,</l>
                <l>For the promotion of our trade;</l>
                <l>
-                  <pb n="8" facs="tcp:022080_0008_0FB6B596A10D9FC8"/>Good manufactures of our own,</l>
+                  <pb n="8" facs="unknown:022080_0008_0FB6B596A10D9FC8"/>Good manufactures of our own,</l>
                <l>Will be ſet up in ev'ry town;</l>
                <l>Our brave General, and good friend,</l>
                <l>Proves true and faithful to the end;</l>
